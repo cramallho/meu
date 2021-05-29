@@ -1,0 +1,725 @@
+Sistema: Windows 10
+Java: 1.8.0_66
+java.io.FileNotFoundException: C:\Users\bagr\.rfb\.cacheni.properties (O sistema não pode encontrar o arquivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at serpro.ppgd.cacheni.CacheNI.carregar(CacheNI.java:327)
+	at serpro.ppgd.app.PlataformaIRPFPGD$1.windowOpened(Unknown Source)
+	at java.awt.Window.processWindowEvent(Unknown Source)
+	at javax.swing.JFrame.processWindowEvent(Unknown Source)
+	at java.awt.Window.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at classes.x.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelCriarNovaDeclaracao.e(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelCriarNovaDeclaracao.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.m.actionPerformed(Unknown Source)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at classes.x.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelCriarNovaDeclaracao.e(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelCriarNovaDeclaracao.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.m.actionPerformed(Unknown Source)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+cmdDir=C:\Arquivos de Programas RFB\IRPF2020
+cmd=[C:\Program Files\Java\jre1.8.0_66\bin\java, -jar, C:\Arquivos de Programas RFB\IRPF2020\pgd-updater.jar, -U, -W, -appName, IRPF2020, -tempDir, C:\Users\bagr\.irpf\tmp_IRPF2020, -destDir, C:\Arquivos de Programas RFB\IRPF2020, -zipFile, IRPF2020-1.7_update_1.8.zip, -releaseUpdateProperties, C:\Arquivos de Programas RFB\IRPF2020\aplicacao\dados\release_properties.xml, -logFile, C:\Arquivos de Programas RFB\IRPF2020\updater.log, -appComandSeparator, #, -appComand, C:\Arquivos de Programas RFB\IRPF2020\IRPF2020.exe]
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10Sistema: Windows 10
+
+Java: 1.8.0_66Java: 1.8.0_66
+
+cmdDir=C:\Arquivos de Programas RFB\IRPF2020
+cmd=[C:\Program Files\Java\jre1.8.0_66\bin\java, -jar, C:\Arquivos de Programas RFB\IRPF2020\pgd-updater.jar, -U, -W, -appName, IRPF2020, -tempDir, C:\Users\bagr\.irpf\tmp_IRPF2020, -destDir, C:\Arquivos de Programas RFB\IRPF2020, -zipFile, IRPF2020-1.8_update_1.9.zip, -releaseUpdateProperties, C:\Arquivos de Programas RFB\IRPF2020\aplicacao\dados\release_properties.xml, -logFile, C:\Arquivos de Programas RFB\IRPF2020\updater.log, -appComandSeparator, #, -appComand, C:\Arquivos de Programas RFB\IRPF2020\IRPF2020.exe]
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+java.lang.NullPointerException
+	at classes.dv.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getStringValueAt(Unknown Source)
+	at javax.swing.DefaultRowSorter.compare(Unknown Source)
+	at javax.swing.DefaultRowSorter.access$100(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at java.util.ComparableTimSort.countRunAndMakeAscending(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.setSortKeys(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.i(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.PainelDeclaracoesTransmitidas.g(Unknown Source)
+	at serpro.ppgd.irpf.gui.IRPFBemVindos.d(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.q(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.aE.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.c(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.<init>(Unknown Source)
+	at classes.aA.a(Unknown Source)
+	at classes.j.actionPerformed(Unknown Source)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+java.lang.NullPointerException
+	at classes.dv.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getStringValueAt(Unknown Source)
+	at javax.swing.DefaultRowSorter.compare(Unknown Source)
+	at javax.swing.DefaultRowSorter.access$100(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at java.util.ComparableTimSort.binarySort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.setSortKeys(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.i(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.PainelDeclaracoesTransmitidas.g(Unknown Source)
+	at serpro.ppgd.irpf.gui.IRPFBemVindos.d(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.q(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.aE.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.c(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.<init>(Unknown Source)
+	at classes.aA.a(Unknown Source)
+	at classes.j.actionPerformed(Unknown Source)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+java.lang.NullPointerException
+	at classes.dv.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getStringValueAt(Unknown Source)
+	at javax.swing.DefaultRowSorter.compare(Unknown Source)
+	at javax.swing.DefaultRowSorter.access$100(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at java.util.ComparableTimSort.binarySort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.setSortKeys(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.i(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.PainelDeclaracoesTransmitidas.g(Unknown Source)
+	at serpro.ppgd.irpf.gui.IRPFBemVindos.d(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.q(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.aE.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.c(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.<init>(Unknown Source)
+	at classes.aA.a(Unknown Source)
+	at classes.j.actionPerformed(Unknown Source)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+java.lang.NullPointerException
+	at classes.dv.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getStringValueAt(Unknown Source)
+	at javax.swing.DefaultRowSorter.compare(Unknown Source)
+	at javax.swing.DefaultRowSorter.access$100(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at java.util.ComparableTimSort.countRunAndMakeAscending(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.setSortKeys(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.i(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.PainelDeclaracoesTransmitidas.g(Unknown Source)
+	at serpro.ppgd.irpf.gui.IRPFBemVindos.d(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.q(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.aE.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.c(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.<init>(Unknown Source)
+	at classes.aA.a(Unknown Source)
+	at classes.j.actionPerformed(Unknown Source)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+java.lang.NullPointerException
+	at classes.dv.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getStringValueAt(Unknown Source)
+	at javax.swing.DefaultRowSorter.compare(Unknown Source)
+	at javax.swing.DefaultRowSorter.access$100(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at java.util.ComparableTimSort.binarySort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.setSortKeys(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.i(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.PainelDeclaracoesTransmitidas.g(Unknown Source)
+	at serpro.ppgd.irpf.gui.IRPFBemVindos.d(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.q(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.aE.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.c(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.<init>(Unknown Source)
+	at classes.aA.a(Unknown Source)
+	at classes.j.actionPerformed(Unknown Source)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+java.lang.NullPointerException
+	at classes.dv.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.cg.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getValueAt(Unknown Source)
+	at javax.swing.table.TableRowSorter$TableRowSorterModelWrapper.getStringValueAt(Unknown Source)
+	at javax.swing.DefaultRowSorter.compare(Unknown Source)
+	at javax.swing.DefaultRowSorter.access$100(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at javax.swing.DefaultRowSorter$Row.compareTo(Unknown Source)
+	at java.util.ComparableTimSort.binarySort(Unknown Source)
+	at java.util.ComparableTimSort.sort(Unknown Source)
+	at java.util.Arrays.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.sort(Unknown Source)
+	at javax.swing.DefaultRowSorter.setSortKeys(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.i(Unknown Source)
+	at serpro.ppgd.irpf.gui.cl.<init>(Unknown Source)
+	at serpro.ppgd.irpf.gui.PainelDeclaracoesTransmitidas.g(Unknown Source)
+	at serpro.ppgd.irpf.gui.IRPFBemVindos.d(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.q(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.a.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.aE.a(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.c(Unknown Source)
+	at serpro.ppgd.irpf.gui.dialogs.PainelGravarTransmitir.<init>(Unknown Source)
+	at classes.aA.a(Unknown Source)
+	at classes.j.actionPerformed(Unknown Source)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+jun 30, 2020 11:31:09 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+java.util.concurrent.ExecutionException: classes.bG: Não foi possível realizar a verificação de disponibilidade de novas versões. Verifique sua conexão com a Internet e tente novamente mais tarde.
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at javax.swing.SwingWorker.get(Unknown Source)
+	at classes.aD.done(Unknown Source)
+	at javax.swing.SwingWorker$5.run(Unknown Source)
+	at javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.run(Unknown Source)
+	at sun.swing.AccumulativeRunnable.run(Unknown Source)
+	at javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.actionPerformed(Unknown Source)
+	at javax.swing.Timer.fireActionPerformed(Unknown Source)
+	at javax.swing.Timer$DoPostEvent.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: classes.bG: Não foi possível realizar a verificação de disponibilidade de novas versões. Verifique sua conexão com a Internet e tente novamente mais tarde.
+	at serpro.ppgd.irpf.util.update.IRPFUpdater.verificarUltimaVersao(Unknown Source)
+	at serpro.ppgd.irpf.util.update.IRPFUpdater.verificarUltimaVersaoOnline(Unknown Source)
+	at classes.aD.doInBackground(Unknown Source)
+	at javax.swing.SwingWorker$1.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at javax.swing.SwingWorker.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: br.gov.serpro.updater.AtualizacaoException: Ocorreu um erro durante a verificação da última versão do aplicativo.
+	at br.gov.serpro.updater.PgdUpdater.getLatestRelease(PgdUpdater.java:505)
+	... 9 more
+Caused by: java.net.UnknownHostException: downloadirpf.receita.fazenda.gov.br
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at jupar.parsers.ReleaseXMLParser.parse(ReleaseXMLParser.java:57)
+	at br.gov.serpro.updater.PgdUpdater.getLatestRelease(PgdUpdater.java:502)
+	... 9 more
+Sistema: Windows 10
+Java: 1.8.0_66
+cmdDir=C:\Arquivos de Programas RFB\IRPF2020
+cmd=[C:\Program Files\Java\jre1.8.0_66\bin\java, -jar, C:\Arquivos de Programas RFB\IRPF2020\pgd-updater.jar, -U, -W, -appName, IRPF2020, -tempDir, C:\Users\bagr\.irpf\tmp_IRPF2020, -destDir, C:\Arquivos de Programas RFB\IRPF2020, -zipFile, IRPF2020-1.9_update_2.0.zip, -releaseUpdateProperties, C:\Arquivos de Programas RFB\IRPF2020\aplicacao\dados\release_properties.xml, -logFile, C:\Arquivos de Programas RFB\IRPF2020\updater.log, -appComandSeparator, #, -appComand, C:\Arquivos de Programas RFB\IRPF2020\IRPF2020.exe]
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+set 09, 2020 8:46:42 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Mensagem Foi encontrada em seu computador a versão 1.8.0_66 da Máquina Virtual Java (JVM).
+Para acessar a funcionalidade selecionada, é  necessária
+uma versão mais recente da JVM (download disponível em www.java.com).
+Versão mínima: 1.8.0-101 (64 bits) não está cadastrada no Mensagens.properties!
+Sistema: Windows 10
+Java: 1.8.0_66
+set 09, 2020 8:47:45 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Mensagem Foi encontrada em seu computador a versão 1.8.0_66 da Máquina Virtual Java (JVM).
+Para acessar a funcionalidade selecionada, é  necessária
+uma versão mais recente da JVM (download disponível em www.java.com).
+Versão mínima: 1.8.0-101 (64 bits) não está cadastrada no Mensagens.properties!
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10Sistema: Windows 10
+
+Java: 1.8.0_66
+Java: 1.8.0_66
+out 21, 2020 10:44:41 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Mensagem Foi encontrada em seu computador a versão 1.8.0_66 da Máquina Virtual Java (JVM).
+Para acessar a funcionalidade selecionada, é  necessária
+uma versão mais recente da JVM (download disponível em www.java.com).
+Versão mínima: 1.8.0-101 (64 bits) não está cadastrada no Mensagens.properties!
+Sistema: Windows 10
+Java: 1.8.0_66
+out 21, 2020 10:52:36 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Mensagem Foi encontrada em seu computador a versão 1.8.0_66 da Máquina Virtual Java (JVM).
+Para acessar a funcionalidade selecionada, é  necessária
+uma versão mais recente da JVM (download disponível em www.java.com).
+Versão mínima: 1.8.0-101 (64 bits) não está cadastrada no Mensagens.properties!
+Sistema: Windows 10
+Java: 1.8.0_66
+out 21, 2020 10:58:21 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Mensagem Foi encontrada em seu computador a versão 1.8.0_66 da Máquina Virtual Java (JVM).
+Para acessar a funcionalidade selecionada, é  necessária
+uma versão mais recente da JVM (download disponível em www.java.com).
+Versão mínima: 1.8.0-101 (64 bits) não está cadastrada no Mensagens.properties!
+Sistema: Windows 10
+Java: 1.8.0_66
+out 21, 2020 11:02:27 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Mensagem Foi encontrada em seu computador a versão 1.8.0_66 da Máquina Virtual Java (JVM).
+Para acessar a funcionalidade selecionada, é  necessária
+uma versão mais recente da JVM (download disponível em www.java.com).
+Versão mínima: 1.8.0-101 (64 bits) não está cadastrada no Mensagens.properties!
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+abr 21, 2021 11:03:44 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Erro ao excluir backup (não existe)
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!
+Sistema: Windows 10
+Java: 1.8.0_66
+Sistema: Windows 10
+Java: 1.8.0_66
+Warning: Could not get charToByteConverterClass!

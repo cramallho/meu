@@ -1,0 +1,35 @@
+               =================================               
+              IMPOSTO DE RENDA PESSOA FÍSICA 2021
+               =================================
+               
+Este texto oferece ao usuário do programa IRPF 2021 algumas
+informações sobre como executar o programa com a instalação 
+multiplataforma (.zip).
+
+Descompacte o arquivo .zip no local de sua preferência.
+
+Para executar o programa IRPF 2021 é necessário ter instalado 
+no computador o Java 11 AdoptOpenJDK.
+O Java 11 deve estar configurado como o Java principal do sistema
+operacional, caso hajam outras versões de Java instaladas, e 
+acessível via terminal de comando.
+
+Localize a pasta IRPF2021, em que o arquivo foi descompactado, e siga as
+instruções a seguir: 
+
+Acesse o terminal de comando de seu sistema operacional.
+(No Windows busque por "cmd" no menu de pesquisa de aplicativos)
+
+No terminal de comando, acesse a pasta "IRPF2021" onde foi descompactada.
+
+Para executar o IRPF 2021, execute o comando no terminal:
+
+java -jar irpf.jar
+
+
+
+
+Obs: É possivel executar o programa IRPF 2021 dando um duplo clique
+diretamente no arquivo "irpf.jar", caso seu sistema operacional tenha 
+configurado o Java 11 e associado arquivos .jar como executáveis.
+

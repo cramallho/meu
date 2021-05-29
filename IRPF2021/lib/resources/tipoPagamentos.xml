@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TABELA xmlns="http://www.receita.fazenda.gov.br/declaracao">
+    <ITEM COL1="01" COL2="Instrução no Brasil."/>
+    <ITEM COL1="02" COL2="Instrução no exterior."/>
+    <ITEM COL1="09" COL2="Fonoaudiólogos no Brasil."/>
+    <ITEM COL1="10" COL2="Médicos no Brasil."/>
+    <ITEM COL1="11" COL2="Dentistas no Brasil."/>
+    <ITEM COL1="12" COL2="Psicólogos no Brasil."/>
+    <ITEM COL1="13" COL2="Fisioterapeutas no Brasil."/>
+    <ITEM COL1="14" COL2="Terapeutas ocupacionais no Brasil."/>
+    <ITEM COL1="15" COL2="Médicos no exterior."/>
+    <ITEM COL1="16" COL2="Dentistas no exterior."/>
+    <ITEM COL1="17" COL2="Psicólogos no exterior."/>
+    <ITEM COL1="18" COL2="Fisioterapeutas no exterior."/>
+    <ITEM COL1="19" COL2="Terapeutas ocupacionais no exterior."/>
+    <ITEM COL1="20" COL2="Fonoaudiólogos no exterior."/>
+    <ITEM COL1="21" COL2="Hospitais, clínicas e laboratórios no Brasil."/>
+    <ITEM COL1="22" COL2="Hospitais, clínicas e laboratórios no exterior."/>
+    <ITEM COL1="26" COL2="Planos de saúde no Brasil."/>
+    <ITEM COL1="30" COL2="Pensão alimentícia judicial paga a residente no Brasil."/>
+    <ITEM COL1="31" COL2="Pensão alimentícia judicial paga a não residente no Brasil."/>
+    <ITEM COL1="33" COL2="Pensão alimentícia - separação/divórcio por escritura pública paga a residente no Brasil."/>
+    <ITEM COL1="34" COL2="Pensão alimentícia - separação/divórcio por escritura pública paga a não residente no Brasil."/>
+    <ITEM COL1="36" COL2="Previdência Complementar."/>
+    <ITEM COL1="37" COL2="Contribuições para as entidades de previdência complementar fechadas de natureza pública."/>
+    <ITEM COL1="38" COL2="Fapi - Fundo de Aposentadoria Programada Individual."/>
+    <ITEM COL1="60" COL2="Advogados (honorários relativos a ações judiciais, exceto trabalhistas)."/>
+    <ITEM COL1="61" COL2="Advogados (honorários relativos a ações judiciais trabalhistas)."/>
+    <ITEM COL1="62" COL2="Advogados (demais honorários)."/>
+    <ITEM COL1="66" COL2="Engenheiros, Arquitetos e demais profissionais liberais, exceto advogados, administrador de imóveis ou corretor de imóveis."/>
+    <ITEM COL1="70" COL2="Aluguéis de imóveis."/>
+    <ITEM COL1="71" COL2="Administrador de imóveis."/>
+    <ITEM COL1="72" COL2="Corretor de imóveis."/>
+    <ITEM COL1="76" COL2="Arrendamento rural."/>
+    <ITEM COL1="99" COL2="Outros."/>
+    <ITEM CRC="1691980987" VIGENCIA="20200917"/>
+</TABELA>
