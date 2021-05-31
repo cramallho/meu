@@ -248,3 +248,23 @@ mai 29, 2021 2:18:24 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
 INFORMAÇÕES: Registrando estado atual:UpdateCompleted
 mai 29, 2021 2:18:24 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
 INFORMAÇÕES: Registrando estado atual:NotStarted
+mai 30, 2021 8:47:40 AM serpro.ppgd.irpf.util.update.IRPFUpdater download
+INFORMAÇÕES: Iniciando download de arquivos internos: [DIVID].
+mai 30, 2021 8:47:41 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFORMAÇÕES: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@1fe6caa'.
+mai 30, 2021 8:47:41 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Downloading
+mai 30, 2021 8:47:41 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:DownloadCompleted
+mai 30, 2021 8:47:41 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando decompactação dos arquivos do pacote na pasta temporária: 'C:\Users\bagr\.irpf\tmp_IRPF2021'.
+mai 30, 2021 8:47:41 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+mai 30, 2021 8:47:41 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFORMAÇÕES: Iniciando a atualização dos arquivos.
+mai 30, 2021 8:47:41 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:Updtating
+mai 30, 2021 8:47:41 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:UpdateCompleted
+mai 30, 2021 8:47:41 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFORMAÇÕES: Registrando estado atual:NotStarted

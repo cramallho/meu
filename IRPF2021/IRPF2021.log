@@ -779,3 +779,10 @@ GRAVE: Mensagem msg_novidades_10 não está cadastrada no Mensagens.properties!
 Warning: Could not get charToByteConverterClass!
 mai 29, 2021 4:15:46 PM serpro.ppgd.negocio.util.LogPPGD erro
 GRAVE: Erro deletar arquivo.
+Sistema: Windows 10
+Java: 11.0.9.1
+JavaHome: C:\Arquivos de Programas RFB\IRPF2021\java-runtime
+mai 30, 2021 8:47:41 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Mensagem msg_novidades_titulo_10 não está cadastrada no Mensagens.properties!
+mai 30, 2021 8:47:41 AM serpro.ppgd.negocio.util.LogPPGD erro
+GRAVE: Mensagem msg_novidades_10 não está cadastrada no Mensagens.properties!
